@@ -1,0 +1,37 @@
+.form-field input[type=text]{
+	width: 50%;
+}
+.submit img {
+	width: 40px;
+    height: 40px;
+    margin: 6px 3px -14px 4px;
+}
+.error_log table {
+	width: 90%;
+}
+.error_log table tr td textarea {
+    padding: 2px 6px;
+    line-height: 1.4;
+    resize: vertical;
+    width: 330px;
+    height: 110px;
+}
+.form-table td.no_padding {
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+}
+.form-table td.no_padding textarea{ 
+    padding: 0;
+}
+.active-btn {
+	background-color:green;
+	color:#fff;
+	border:none;
+}
+.synch-btn {
+	background-color: #000;
+    color: #fff;
+    border: none;
+    height:38px;
+}
